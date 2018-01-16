@@ -18,5 +18,6 @@ public class MyJedis {
 			System.out.println(string);
 		}
 		Thread.sleep(100);
+		System.out.println("于海东是个逗比！！！哈哈！！")
 	}
 }
